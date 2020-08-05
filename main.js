@@ -21,4 +21,6 @@ $("#btnNuevo").click(function(){
     $("#modalCRUD").modal("show");
 });
 
+
+
 });
